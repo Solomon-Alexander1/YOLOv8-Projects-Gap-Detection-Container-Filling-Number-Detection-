@@ -50,8 +50,7 @@ Run any script:
 python "Gap Detection Main.py"
 python "Number Detection Main.py"
 python "Container_Filling.py"
-
-
+```
 📺 Demo Videos
 🔗 Gap Detection Demo
 
