@@ -52,9 +52,13 @@ python "Number Detection Main.py"
 python "Container_Filling.py"
 ```
 📺 Demo Videos
-🔗 Gap Detection Demo
 
-🔗 Number Detection Demo
+- 🔗 [Gap Detection Demo](https://github.com/Solomon-Alexander1/YOLOv8-Projects-Gap-Detection-Container-Filling-Number-Detection-/blob/master/Gap_No_Gap_Detection_Video.mp4)
+
+- 🔗 [Container Filling + Number Detection Demo](https://github.com/Solomon-Alexander1/YOLOv8-Projects-Gap-Detection-Container-Filling-Number-Detection-/blob/master/Container_Filling_Video.mp4)
+
+- 🔗 [Number Detection Demo](https://github.com/Solomon-Alexander1/YOLOv8-Projects-Gap-Detection-Container-Filling-Number-Detection-/blob/master/Number_Detection_Video.mkv)
+
 
 📦 Model Weights
 Pre-trained weights used:
