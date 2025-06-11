@@ -1,0 +1,5 @@
+train: C:/yolov8_project/dataset3/images/train
+val: C:/yolov8_project/dataset3/images/val
+
+nc: 3  # Number of classes
+names: ['Filling', 'Filled', 'Overfilled']

@@ -1,0 +1,6 @@
+path: C:/yolov8_project/dataset2  # Path to dataset root
+train: C:/yolov8_project/dataset2/images/train  # Train images absolute path
+val: C:/yolov8_project/dataset2/images/val  # Validation images absolute path
+
+nc: 2  # Number of classes
+names: ['3-digit', '4-digit']  # Class names
