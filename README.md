@@ -33,7 +33,6 @@ This repository contains 3 advanced real-time object detection projects using **
 
 ---
 
----
 
 ## 🛠️ How to Run
 
@@ -83,6 +82,5 @@ You can retrain on your own dataset using the provided train.py script.
 📜 License
 This project is licensed under the MIT License – you are free to use, modify, and share it for educational purposes.
 
----
 
 Let me know if you'd like to include screenshots or training accuracy graphs!
