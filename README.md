@@ -62,18 +62,16 @@ python "Container_Filling.py"
 
 📦 Model Weights
 Pre-trained weights used:
-
 yolov8n.pt – Lightweight model (for real-time)
-
 yolov8s.pt – More accurate small model
 You can retrain on your own dataset using the provided train.py script.
 
+
 📌 Future Enhancements
 📈 Add GUI for easier testing
-
 🧠 Integrate CCTV footage and real-time alert system
-
 🌐 Host on web dashboard with monitoring
+
 
 ### 🙋‍♂️ Author
 
@@ -82,8 +80,3 @@ You can retrain on your own dataset using the provided train.py script.
 🔗 [GitHub Profile](https://github.com/Solomon-Alexander1)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/solomon-alexander-184733170/)
 
-📜 License
-This project is licensed under the MIT License – you are free to use, modify, and share it for educational purposes.
-
-
-Let me know if you'd like to include screenshots or training accuracy graphs!
