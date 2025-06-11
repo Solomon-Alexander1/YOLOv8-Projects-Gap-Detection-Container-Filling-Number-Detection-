@@ -73,11 +73,12 @@ You can retrain on your own dataset using the provided train.py script.
 
 🌐 Host on web dashboard with monitoring
 
-🙋‍♂️ Author
-Solomon Goodwin Alexander
-📍 Nagpur, India
-🔗 [GitHub](https://github.com/Solomon-Alexander1)
-🔗 LinkedIn](https://www.linkedin.com/in/solomon-alexander-184733170/)
+### 🙋‍♂️ Author
+
+**Solomon Goodwin Alexander**  
+📍 Nagpur, India  
+🔗 [GitHub Profile](https://github.com/Solomon-Alexander1)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/solomon-alexander-184733170/)
 
 📜 License
 This project is licensed under the MIT License – you are free to use, modify, and share it for educational purposes.
