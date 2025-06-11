@@ -61,7 +61,9 @@ python "Container_Filling.py"
 
 
 📦 Model Weights
+
 Pre-trained weights used:
+
 yolov8n.pt – Lightweight model (for real-time)
 
 yolov8s.pt – More accurate small model
@@ -69,6 +71,7 @@ You can retrain on your own dataset using the provided train.py script.
 
 
 📌 Future Enhancements
+
 📈 Add GUI for easier testing
 
 🧠 Integrate CCTV footage and real-time alert system
